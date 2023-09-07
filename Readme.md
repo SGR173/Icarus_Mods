@@ -162,13 +162,10 @@ To activate the Custom Options Interface:
 ### 9. Extraction 5 Seconds (JimK72)
 - Changes the extraction speed to 5 seconds per ore.
 
-### 10. Aluminium Shield (Globeadue)
-- Adds new aluminum shield to the game that has increased durability and returns damage on the attacker
-
-### 11. Halloween Pumpkins
+### 10. Halloween Pumpkins
 - Allows crafting of several variations of Halloween Pumpkins to deploy around your home.
 
-### 12. Weapons Mods (JimK72)
+### 11. Weapons Mods (JimK72)
 - Compound Bow Krytic Camo
 - Scoped Rifle
 - Weapons Pak 1
@@ -177,19 +174,16 @@ To activate the Custom Options Interface:
 - Precision Bow
 - Precision Bow Workshop
 
-### 13. Floor Slider (JimK72)
+### 12. Floor Slider (JimK72)
 - This is similar to my Elevator mod but creates a platform that when standing on will slide out 4 or 8 floor spots in any direction.
 
-### 14. Mini Generator (JimK72)
+### 13. Mini Generator (JimK72)
 - Replaces the Biofuel generator model with a much smaller version so you can place it on top of items and allows them to be stacked.
 
-### 15. MXC Cot (Zailfyer)
+### 14. MXC Cot (Zailfyer)
 - Grants access to the MXC Cot in the orbital workshop
 
-### 16. Water Canister (Draguarius)
-- Water Barrel 20L. A robust water storage solution. Filled near water pipe.
-
-### 17. Windmill Generator (JimK72) 
+### 15. Windmill Generator (JimK72) 
 - Allows you to craft a windmill generator. Craftable in character menu, Generates 5000 watts. 
 _______________________________________________________________________________________________________________________________________________________________________
 
