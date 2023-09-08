@@ -1,6 +1,6 @@
 Week 92 Features
 ----------------------------------------------------------------------
-Mod Version: 3
+Mod Version: REV. 2.0.2.115842-SHIPPING-NEWFRONTIERS NEW FRONTIERS (week 92)
 
 Compatible with Icarus Version: Week: 92
 
