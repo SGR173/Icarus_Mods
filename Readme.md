@@ -152,7 +152,7 @@ To activate the Custom Options Interface:
 - Allows the raising of cubs into full-grown bear mounts.
 
 ### 6. Custom Puck Lights (JimK72)
-- Workshop Item that when consumed give you a crate and 4 new types of deployable LED lights(No Power Needed).
+- Workshop Item that, when consumed, gives you a crate and 4 new types of deployable LED lights(No Power Needed).
 
 ### 7.  Elevators
 
@@ -162,7 +162,7 @@ To activate the Custom Options Interface:
 ### 9. Extraction 5 Seconds (JimK72)
 - Changes the extraction speed to 5 seconds per ore.
 
-### 10. Halloween Pumpkins
+### 10. Halloween Pumpkins (JimK72)
 - Allows crafting of several variations of Halloween Pumpkins to deploy around your home.
 
 ### 11. Weapons Mods (JimK72)
@@ -175,16 +175,31 @@ To activate the Custom Options Interface:
 - Precision Bow Workshop
 
 ### 12. Floor Slider (JimK72)
-- This is similar to my Elevator mod but creates a platform that when standing on will slide out 4 or 8 floor spots in any direction.
+- This is similar to my Elevator mod but creates a platform that, when standing on, will slide out 4 or 8-floor spots in any direction.
 
 ### 13. Mini Generator (JimK72)
-- Replaces the Biofuel generator model with a much smaller version so you can place it on top of items and allows them to be stacked.
+- Replace the Biofuel generator model with a much smaller version so you can place it on top of items and allow them to be stacked.
 
 ### 14. MXC Cot (Zailfyer)
 - Grants access to the MXC Cot in the orbital workshop
 
 ### 15. Windmill Generator (JimK72) 
-- Allows you to craft a windmill generator. Craftable in character menu, Generates 5000 watts. 
+- Allows you to craft a windmill generator. Craftable in character menu, Generates 5000 watts.
+
+### 16. Mini Fridge (JimK72)
+- Allows stacking of multiple smaller refrigerator
+
+### 17. Tier3 Electricity (JimK72)
+- Moves the Biofuel generator and the spline tool to the Machining bench where it should be.
+
+### 18. Backpacks (Zailfyer)
+- Leather Backpack has better carry weight buff, and better ore, wood, and stone weight reductions
+- Survival Backpack has sprint stamina reduction, better fall resistance, and broken leg modifier duration shortened
+- Gather's Backpack has stone weight reduction and axe, pick, sickle wear rate reduction, and Pneumonia resistance
+- Archer's Backpack has decreased wear rate of bows and increased bow damage
+- Mercenary backpack has rifle and pistol buffs and reduced wear rate of firearms
+- Tactical backpack has increased carry weight
+- ADDs Miner's Backpack with better pneumonia resistance, ore carry weight, and stone carry weight. has the same pick wear rate
 _______________________________________________________________________________________________________________________________________________________________________
 
 Enjoy Prospectors!
