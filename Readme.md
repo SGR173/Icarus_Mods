@@ -1,8 +1,8 @@
 Week 92 Features
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 3
 
-Compatible with Icarus Version: Rev. 2.0.1.115492 (Week: 91)
+Compatible with Icarus Version: Week: 92
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
