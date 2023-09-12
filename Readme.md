@@ -5,7 +5,9 @@ Mod Version: 3
 Compatible with Icarus Version: REV. 2.0.2.115842-SHIPPING-NEWFRONTIERS NEW FRONTIERS (week 92)
 
 ## Description:
-Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
+Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!  
+
+Depending on the MOD you want to run, you will have a difference combination of the mods below.
     
 ### 1. laanp changes: 
 - Player levels shows actual, beyond 60
