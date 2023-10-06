@@ -1,6 +1,6 @@
 Mod Versions: 4
 
-Compatible with Icarus Version: REV. 2.0.5.116433-SHIPPING-NEWFRONTIERS NEW FRONTIERS (week 95)
+Compatible with Icarus Version: REV. 2.0.6.116557-SHIPPING-NEWFRONTIERS NEW FRONTIERS (week 96)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!  
